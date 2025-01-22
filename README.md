@@ -1,2 +1,2 @@
-# wasteclassification
-AICTE Project Waste Classification using CNN Model
+# Waste Classification
+AICTE  Virtual Internship Project: Waste Classification using CNN Model
